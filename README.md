@@ -1,5 +1,10 @@
 <h1 align="left">Dohyeon Park</h1>
-<p>a student who studying to become a back-end developer</p>
+<p>
+  a student who studying to become a back-end developer
+</p>
+<p>
+  3rd grade at Hannam University major in multimedia engineering
+</p>
 <hr>
 <p align="left">
   <p>My strength</p>
