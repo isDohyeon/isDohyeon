@@ -1,4 +1,4 @@
-<style display="inline"><h3>Dohyeon Park</h3></style>
+<h3><style display="inline">Dohyeon Park</style></h3>
 
 : A student who studying to become a back-end developer
 
