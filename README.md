@@ -1,9 +1,10 @@
 <h3>Dohyeon Park</h3>
 <p>
-  a student who studying to become a back-end developer
+  A student who studying to become a back-end developer
 </p>
 <hr>
-<p align="center">
+<p align="left">
+  <h3>Interests</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
