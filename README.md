@@ -1,8 +1,6 @@
+<h3>Dohyeon Park</h3>
 <p>
   a student who studying to become a back-end developer
-</p>
-<p>
-  3rd grade at Hannam University major in multimedia engineering
 </p>
 <hr>
 <p align="left">
