@@ -1,6 +1,6 @@
 <h3>Dohyeon Park</h3>
 <p>
-  A student who studying to become a back-end developer
+  📚 A student who studying to become a back-end developer
 </p>
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
