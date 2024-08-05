@@ -1,7 +1,5 @@
-<h3>Dohyeon Park</h3>
 <p>A student who studying to become a back-end developer</p>
 <p>
-  Select and focus on : 
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
