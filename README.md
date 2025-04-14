@@ -1,4 +1,1 @@
-Chipi Chipi
-<br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+'IT'와 잘 지내지만 'I','T'와 더 잘 지내는 ENFP 개발자
